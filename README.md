@@ -8,4 +8,9 @@
 
 # Welcome to ENTR-451
 
-This is an example of a GitHub repository.
+Tonight is cool beans
+
+Comit Steps:
+1. Stage the changes
+2. Add a message and comit the change
+3. Push change to Github
